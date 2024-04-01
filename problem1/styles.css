@@ -1,0 +1,29 @@
+header { 
+    background-color: #00d0ff;
+    font-style: italic;
+    font-size: x-large;
+    margin-top: 0
+}
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+    background-color: #f4f4f4;
+}
+footer {
+    font-size: larger;
+    font-weight: bolder;
+    position: fixed; 
+    bottom: 0; 
+        
+}
+
+.container {
+    display: flex;
+    border: 2px
+}
+
+.blogpost {
+    font-size: large;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px
+}
